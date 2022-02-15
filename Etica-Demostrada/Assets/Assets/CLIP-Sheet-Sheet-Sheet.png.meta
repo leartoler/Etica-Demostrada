@@ -1,0 +1,720 @@
+fileFormatVersion: 2
+guid: 8f162ec0896054d4aba6fa61e00b8a8b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7298346688690466779
+    second: CLIP-Sheet-Sheet-Sheet_0
+  - first:
+      213: -455717135757982856
+    second: CLIP-Sheet-Sheet-Sheet_1
+  - first:
+      213: -7871693904678564434
+    second: CLIP-Sheet-Sheet-Sheet_2
+  - first:
+      213: 8392389729825056798
+    second: CLIP-Sheet-Sheet-Sheet_3
+  - first:
+      213: 5861902861041940539
+    second: CLIP-Sheet-Sheet-Sheet_4
+  - first:
+      213: -3271201720996969349
+    second: CLIP-Sheet-Sheet-Sheet_5
+  - first:
+      213: 950479566167121391
+    second: CLIP-Sheet-Sheet-Sheet_6
+  - first:
+      213: 2010639827538845769
+    second: CLIP-Sheet-Sheet-Sheet_7
+  - first:
+      213: 3299876044112345848
+    second: CLIP-Sheet-Sheet-Sheet_8
+  - first:
+      213: -5937621927336841043
+    second: CLIP-Sheet-Sheet-Sheet_9
+  - first:
+      213: -6958834510380580617
+    second: CLIP-Sheet-Sheet-Sheet_10
+  - first:
+      213: -1881001691276386137
+    second: CLIP-Sheet-Sheet-Sheet_11
+  - first:
+      213: -1522317130283874938
+    second: CLIP-Sheet-Sheet-Sheet_12
+  - first:
+      213: 6990403795577497142
+    second: CLIP-Sheet-Sheet-Sheet_13
+  - first:
+      213: 5106226682490510255
+    second: CLIP-Sheet-Sheet-Sheet_14
+  - first:
+      213: 8148838985148141263
+    second: CLIP-Sheet-Sheet-Sheet_15
+  - first:
+      213: 5111391323907146956
+    second: CLIP-Sheet-Sheet-Sheet_16
+  - first:
+      213: 7895426801349267127
+    second: CLIP-Sheet-Sheet-Sheet_17
+  - first:
+      213: 3287570893948523705
+    second: CLIP-Sheet-Sheet-Sheet_18
+  - first:
+      213: -7130879775750560883
+    second: CLIP-Sheet-Sheet-Sheet_19
+  - first:
+      213: 4397895119316312422
+    second: CLIP-Sheet-Sheet-Sheet_20
+  - first:
+      213: 7131464053892929250
+    second: CLIP-Sheet-Sheet-Sheet_21
+  - first:
+      213: 3598493618137483383
+    second: CLIP-Sheet-Sheet-Sheet_22
+  - first:
+      213: 5252807563885479818
+    second: CLIP-Sheet-Sheet-Sheet_23
+  - first:
+      213: -6606140087318537552
+    second: CLIP-Sheet-Sheet-Sheet_24
+  - first:
+      213: 7907795619918189761
+    second: CLIP-Sheet-Sheet-Sheet_25
+  - first:
+      213: 1673826453431647204
+    second: CLIP-Sheet-Sheet-Sheet_26
+  - first:
+      213: -5577513443890066412
+    second: CLIP-Sheet-Sheet-Sheet_27
+  - first:
+      213: 6816212112220894207
+    second: CLIP-Sheet-Sheet-Sheet_28
+  - first:
+      213: 7563444156783612317
+    second: CLIP-Sheet-Sheet-Sheet_29
+  - first:
+      213: 3731581179417403745
+    second: CLIP-Sheet-Sheet-Sheet_30
+  - first:
+      213: 8209907982715118852
+    second: CLIP-Sheet-Sheet-Sheet_31
+  - first:
+      213: -385619377360408261
+    second: CLIP-Sheet-Sheet-Sheet_32
+  - first:
+      213: 2033261032619182671
+    second: CLIP-Sheet-Sheet-Sheet_33
+  - first:
+      213: 4110404307935643997
+    second: CLIP-Sheet-Sheet-Sheet_34
+  - first:
+      213: -1897405729090456222
+    second: CLIP-Sheet-Sheet-Sheet_35
+  - first:
+      213: -2196697635078740509
+    second: CLIP-Sheet-Sheet-Sheet_36
+  - first:
+      213: -8435249688863803278
+    second: CLIP-Sheet-Sheet-Sheet_37
+  - first:
+      213: -2442434716341984368
+    second: CLIP-Sheet-Sheet-Sheet_38
+  - first:
+      213: 2511189542119532027
+    second: CLIP-Sheet-Sheet-Sheet_39
+  - first:
+      213: -7005666239028124450
+    second: CLIP-Sheet-Sheet-Sheet_40
+  - first:
+      213: 5553974599241791688
+    second: CLIP-Sheet-Sheet-Sheet_41
+  - first:
+      213: -3478299641699882749
+    second: CLIP-Sheet-Sheet-Sheet_42
+  - first:
+      213: -1850684334170783546
+    second: CLIP-Sheet-Sheet-Sheet_43
+  - first:
+      213: -8177109823797486428
+    second: CLIP-Sheet-Sheet-Sheet_44
+  - first:
+      213: -2629756142397183880
+    second: CLIP-Sheet-Sheet-Sheet_45
+  - first:
+      213: -4081307460372000776
+    second: CLIP-Sheet-Sheet-Sheet_46
+  - first:
+      213: -7534550930508457496
+    second: CLIP-Sheet-Sheet-Sheet_47
+  - first:
+      213: -5177682210116454169
+    second: CLIP-Sheet-Sheet-Sheet_48
+  - first:
+      213: 1507558318145337831
+    second: CLIP-Sheet-Sheet-Sheet_49
+  - first:
+      213: -9158987432284990706
+    second: CLIP-Sheet-Sheet-Sheet_50
+  - first:
+      213: -4744660402387183655
+    second: CLIP-Sheet-Sheet-Sheet_51
+  - first:
+      213: -1786279356561970933
+    second: CLIP-Sheet-Sheet-Sheet_52
+  - first:
+      213: -5237852270944165920
+    second: CLIP-Sheet-Sheet-Sheet_53
+  - first:
+      213: -3368612699657683299
+    second: CLIP-Sheet-Sheet-Sheet_54
+  - first:
+      213: 4021649996697924398
+    second: CLIP-Sheet-Sheet-Sheet_55
+  - first:
+      213: -4883456765692124175
+    second: CLIP-Sheet-Sheet-Sheet_56
+  - first:
+      213: -2637166288362159983
+    second: CLIP-Sheet-Sheet-Sheet_57
+  - first:
+      213: 5281516620624556478
+    second: CLIP-Sheet-Sheet-Sheet_58
+  - first:
+      213: 908170947265836376
+    second: CLIP-Sheet-Sheet-Sheet_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CLIP-Sheet-Sheet-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8734615fda7fca9f0800000000000000
+      internalID: -455717135757982856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIP-Sheet-Sheet-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38304c2899a95150800000000000000
+      internalID: 5861902861041940539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIP-Sheet-Sheet-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940a4b3354a37eb10800000000000000
+      internalID: 2010639827538845769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIP-Sheet-Sheet-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0490ed1e04d6f90800000000000000
+      internalID: -6958834510380580617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIP-Sheet-Sheet-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63660ff1737e20160800000000000000
+      internalID: 6990403795577497142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIP-Sheet-Sheet-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4cf79e35f4fe640800000000000000
+      internalID: 5111391323907146956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIP-Sheet-Sheet-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83ee5eff960a0d90800000000000000
+      internalID: -7130879775750560883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIP-Sheet-Sheet-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778489b41ea60f130800000000000000
+      internalID: 3598493618137483383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIP-Sheet-Sheet-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c41d9118322ebd60800000000000000
+      internalID: 7907795619918189761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIP-Sheet-Sheet-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 0
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff334ae5dcc089e50800000000000000
+      internalID: 6816212112220894207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIP-Sheet-Sheet-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 0
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405e064ffc37fe170800000000000000
+      internalID: 8209907982715118852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIP-Sheet-Sheet-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 0
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d594db1b0f61b0930800000000000000
+      internalID: 4110404307935643997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIP-Sheet-Sheet-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 0
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2787c8f8919ffea80800000000000000
+      internalID: -8435249688863803278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIP-Sheet-Sheet-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 0
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed428c75cafd6ce90800000000000000
+      internalID: -7005666239028124450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIP-Sheet-Sheet-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 0
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0ce56476c0156e0800000000000000
+      internalID: -1850684334170783546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIP-Sheet-Sheet-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 0
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff006d0d784c57c0800000000000000
+      internalID: -4081307460372000776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIP-Sheet-Sheet-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 0
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9fc3f8d4cebe410800000000000000
+      internalID: 1507558318145337831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIP-Sheet-Sheet-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09a28aa36cd537e0800000000000000
+      internalID: -1786279356561970933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIP-Sheet-Sheet-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 0
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2371284d55cfc730800000000000000
+      internalID: 4021649996697924398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIP-Sheet-Sheet-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 0
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1f5af3267bb4940800000000000000
+      internalID: 5281516620624556478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
